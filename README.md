@@ -4,6 +4,9 @@ This repository is used to measure data during batch processing of DNN models fo
 ## Dependencies
 The code is written in Python 3.7.
 
+## Usage
+Modify parameters in the files and run.
+
 ## License
 This code is released under the MIT License. See LICENSE for details.
 
